@@ -34,14 +34,29 @@ img{
   margin-left: 100px;
 }
 
-
 h2{
   margin-top: 50px;
   font-family: 'Indie Flower', cursive;
   font-size: 50px;
 }
 
-@media screen and (max-width:680px) {
+
+.image4{
+  width: 40%;
+  float: right;
+  margin-left: 2px;
+}
+
+.well{
+  clear: both;
+  display: block;
+}
+
+.jumbotron{
+  background-color: steelblue;
+}
+
+@media screen and (max-width:700px) {
 
   img{
     float: left;
