@@ -1,0 +1,55 @@
+body{
+  background-color: antiquewhite;
+}
+
+h1{
+  float: left;
+  padding-left: 18px;
+  font-size: 21px;
+}
+
+ul{
+  float: right;
+  list-style-type: none;
+}
+
+li{
+  display: inline-block;
+  padding: 15px;
+  padding-right: 30px;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.presentation{
+  background-color: steelblue;
+  height: 400px;
+  clear: both;
+  display: block;
+  }
+
+img{
+  float: left;
+  height: 100%;
+  margin-left: 100px;
+}
+
+
+h2{
+  margin-top: 50px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 50px;
+}
+
+@media screen and (max-width:680px) {
+
+  img{
+    float: left;
+    height: 100%;
+    margin: 0;
+  }
+  h2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    margin: 0;
+  }
