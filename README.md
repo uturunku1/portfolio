@@ -4,7 +4,7 @@
 
 #### By _**Stella Huayhuaca**_
 
-![screenshot](img/portfolio.JPG)
+![screenshot](img/portfolio.jpg)
 
 ## Description
 
