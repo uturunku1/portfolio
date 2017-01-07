@@ -4,6 +4,7 @@
 
 #### By _**Stella Huayhuaca**_
 
+![screenshot](img/portfolio.JPG)
 
 ## Description
 
@@ -11,7 +12,7 @@ _This is a Portfolio where I'll be sharing my projects as a new student and deve
 
 ## Setup/Installation Requirements
 
-* _It does not require any Installation.
+* _It does not require any Installation._
 
 ## Support and contact details
 
