@@ -16,7 +16,7 @@ _This is a Portfolio where I'll be sharing my projects as a new student and deve
 
 ## Support and contact details
 
-_Dear user: if you run into any issues or have questions or suggestion, I encourage to contact me or to make a contribution to the code._
+_Dear user: if you run into any issues or have questions or suggestion, please feel free to contact me or to make a contribution to the code._
 
 ## Technologies Used
 
